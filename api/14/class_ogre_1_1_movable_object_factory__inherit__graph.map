@@ -1,0 +1,8 @@
+<map id="Ogre::MovableObjectFactory" name="Ogre::MovableObjectFactory">
+<area shape="rect" id="node1" title="Interface definition for a factory class which produces a certain kind of MovableObject,..." alt="" coords="84,80,291,107"/>
+<area shape="rect" id="node3" href="$class_ogre_1_1_p_c_z_light_factory.html" title="Factory object for creating PCZLight instances." alt="" coords="5,155,172,181"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_portal_base_factory.html" title="Factory object for creating Portal instances." alt="" coords="197,155,375,181"/>
+<area shape="rect" id="node2" title=" " alt="" coords="132,5,243,32"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_anti_portal_factory.html" title="Factory object for creating AntiPortal instances." alt="" coords="107,229,281,256"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_portal_factory.html" title="Factory object for creating Portal instances." alt="" coords="305,229,451,256"/>
+</map>

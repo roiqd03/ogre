@@ -1,0 +1,4 @@
+<map id="Ogre::OctreeSceneManagerFactory" name="Ogre::OctreeSceneManagerFactory">
+<area shape="rect" id="node1" title="Factory for OctreeSceneManager." alt="" coords="8,80,208,121"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_scene_manager_factory.html" title="Class which will create instances of a given SceneManager." alt="" coords="5,5,211,32"/>
+</map>

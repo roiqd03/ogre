@@ -1,0 +1,16 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_ogre_1_1_singleton.html" title=" " alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node2" href="$class_ogre_1_1_terrain_global_options.html" title="Options class which just stores default options for the terrain." alt="" coords="251,13,449,39"/>
+<area shape="rect" id="node3" title=" " alt="" coords="47,247,145,274"/>
+<area shape="rect" id="node4" href="$class_ogre_1_1_terrain_1_1_gpu_buffer_allocator.html" title="Interface used to by the Terrain instance to allocate GPU buffers." alt="" coords="261,64,439,105"/>
+<area shape="rect" id="node6" href="$class_ogre_1_1_terrain_auto_update_lod.html" title="Terrain automatic LOD loading." alt="" coords="247,130,453,157"/>
+<area shape="rect" id="node8" href="$struct_ogre_1_1_terrain_group_1_1_terrain_slot.html" title="Slot for a terrain instance, together with its definition." alt="" coords="278,181,422,223"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_terrain_layer_blend_map.html" title="Class exposing an interface to a blend map for a given layer." alt="" coords="247,247,453,274"/>
+<area shape="rect" id="node10" href="$class_ogre_1_1_terrain_material_generator.html" title="Class that provides functionality to generate materials for use with a terrain." alt="" coords="238,298,462,325"/>
+<area shape="rect" id="node12" href="$class_ogre_1_1_terrain_paged_world_section_1_1_terrain_definer.html" title=" " alt="" coords="235,349,465,391"/>
+<area shape="rect" id="node13" href="$class_ogre_1_1_terrain_paging.html" title="This class is the &#39;core&#39; class for paging terrain, that will integrate with the larger paging system ..." alt="" coords="275,415,425,442"/>
+<area shape="rect" id="node14" href="$struct_ogre_1_1_terrain_quad_tree_node_1_1_lod_level.html" title=" " alt="" coords="250,467,450,508"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_terrain_1_1_default_gpu_buffer_allocator.html" title="Standard implementation of a buffer allocator which re&#45;uses buffers." alt="" coords="537,61,723,103"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_terrain_auto_update_lod_by_distance.html" title="Class implementing TerrainAutoUpdateLod interface." alt="" coords="527,127,733,168"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_terrain_material_generator_a.html" title="A TerrainMaterialGenerator which can cope with normal mapped, specular mapped terrain." alt="" coords="513,298,747,325"/>
+</map>
